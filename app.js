@@ -15,3 +15,12 @@ if( b > 18){
 }else{
     alert("You Are Not Allow To Ride");
 }
+
+var c = +prompt("Enter Your Age" , "Your Age Must Be 18+");
+if( c > 18){
+    alert("You Are Allow To Ride");{
+
+    }
+}else{
+    alert("You Are Not Allow To Ride");
+}
